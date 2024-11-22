@@ -25,11 +25,11 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/my-portfolio-site.git
+   git clone https://github.com/surajroy7430/personal-project.git
 
 2. Navigate to the project directory:
     ```bash
-    cd my-portfolio-site
+    cd personal-project
 
 --- 
 3. Running the Project
