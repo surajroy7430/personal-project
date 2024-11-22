@@ -7,6 +7,10 @@ Welcome to my portfolio repository! This project is a personal website showcasin
 - **Project Gallery:** Displays a list of my projects with descriptions and links.
 - **Contact Form:** Allows visitors to reach out directly.
 
+## Screenshot
+![Project Screenshot](image-1.png)
+![Project Screenshot](image.png)
+
 ## Technologies Used
 - **HTML**, **CSS**, and **JavaScript**
 
